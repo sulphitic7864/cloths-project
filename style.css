@@ -7,7 +7,7 @@ Description: Kaira - Bootstrap 5 HTML CSS Template is a specially designed produ
 Version: 1.1
 */
 
-/*--------------------------------------------------------------
+/*------------------------------------------------------------
 This is main CSS file that contains custom style rules used in this template
 --------------------------------------------------------------*/
 
@@ -1540,5 +1540,6 @@ a.btn-link.text-light:after {
   background-size: cover;
   transition: transform .3s ease-out;
 }
+
 
 
