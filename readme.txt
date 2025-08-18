@@ -11,7 +11,7 @@ RIGHTS
 
 You are allowed to use it in your personal projects and commercial projects.
 
-You can modify and sell it to your clients.
+You can modify and sell it to your clients
 
 SUPPORT
 
@@ -44,5 +44,6 @@ Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
 Thanks for choosing us!
+
 
 
