@@ -8,7 +8,7 @@ Version: 1.1
 */
 
 /*------------------------------------------------------------
-This is main CSS file that contains custom style rules used in this template.
+This is the main CSS file that contains custom style rules used in this template.
 --------------------------------------------------------------*/
 
 /*------------------------------------*\
@@ -1540,6 +1540,7 @@ a.btn-link.text-light:after {
   background-size: cover;
   transition: transform .3s ease-out;
 }
+
 
 
 
