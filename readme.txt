@@ -1,6 +1,7 @@
 The code is consistent and can be easily maintained as we have followed a good coding standard. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
-FREE FOR 
+FREE FOR BOTH 
+
 This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
 
 However, you can remove the credit link by paying for No Attribution version of the template.
@@ -43,6 +44,7 @@ Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
 Thanks for choosing us!
+
 
 
 
