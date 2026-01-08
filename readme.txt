@@ -6,7 +6,7 @@ This HTML Template is provided by TemplatesJungle.com and is free to use in both
 
 However, you can remove the credit link by paying for No Attribution version of the template.
 
---RIGHTS--
+--RIGHTS---
 
 You are allowed to use it in your personal projects and commercial projects.
 
@@ -43,6 +43,7 @@ Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
 
 Thanks for choosing us!
+
 
 
 
